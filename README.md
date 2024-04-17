@@ -22,11 +22,11 @@ To run the app locally, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
+   https://github.com/Nadeem78633/agentInsights.git
    ```
 2. Navigate to the project directory.
    ```bash
-   cd react-quiz-app
+   cd agentInsights
    ```
 3. Install dependencies.
    ```bash
@@ -54,9 +54,4 @@ To run the app locally, follow these steps:
 - HTML
 - CSS
 
-## Credits
 
-- Questions sourced from a JSON file in the app.
-- Icons from [FontAwesome](https://fontawesome.com/).
-
-Feel free to customize this README file further to suit your specific app features and requirements.
